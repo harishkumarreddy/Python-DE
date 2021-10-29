@@ -65,7 +65,7 @@ stu_age = 34
 #float
 stu_height = 5.9
 
-#DOuble
+#Double
 stu_score= 162.256478965556
 
 # Bool
@@ -162,10 +162,11 @@ print(m_dob)
 
 # In[ ]:
 
-
+'''
 Sr.No.	Directives & Description
 1	
 get_ipython().run_line_magic('A', '')
+
 
 Full Weekday name
 
@@ -224,7 +225,7 @@ get_ipython().run_line_magic('Z', 'or %z')
 
 Time zone or name or abbreviation
 
-
+'''
 # In[50]:
 
 
