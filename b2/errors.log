@@ -1,0 +1,17 @@
+ERROR - [2021-11-10 07:59:40,271] - root : [Errno 2] No such file or directory: 'D:\\Projects\\PPS\\Python\\b2\\test.txt'
+Traceback (most recent call last):
+  File "D:\Projects\PPS\Python\b2\eh.py", line 27, in <module>
+    fs = open(r"D:\Projects\PPS\Python\b2\test.txt", "r");
+FileNotFoundError: [Errno 2] No such file or directory: 'D:\\Projects\\PPS\\Python\\b2\\test.txt'
+ERROR - [2021-11-10 08:02:29,626] - root : STart reading file.
+ERROR - [2021-11-10 08:02:29,626] - root : [Errno 2] No such file or directory: 'D:\\Projects\\PPS\\Python\\b2\\test.txt'
+Traceback (most recent call last):
+  File "D:\Projects\PPS\Python\b2\eh.py", line 27, in <module>
+    fs = open(r"D:\Projects\PPS\Python\b2\test.txt", "r");
+FileNotFoundError: [Errno 2] No such file or directory: 'D:\\Projects\\PPS\\Python\\b2\\test.txt'
+ERROR - [2021-11-10 08:02:29,626] - root : File IO completed.
+ERROR - [2021-11-10 08:04:16,400] - root : [Errno 2] No such file or directory: 'D:\\Projects\\PPS\\Python\\b2\\test.txt'
+Traceback (most recent call last):
+  File "D:\Projects\PPS\Python\b2\eh.py", line 27, in <module>
+    fs = open(r"D:\Projects\PPS\Python\b2\test.txt", "r");
+FileNotFoundError: [Errno 2] No such file or directory: 'D:\\Projects\\PPS\\Python\\b2\\test.txt'
